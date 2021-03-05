@@ -1,0 +1,105 @@
+.wrapper {
+    margin: 0 auto;
+    max-width: 1180px;
+    padding: 0 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+}
+
+.body {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+
+.header {
+    margin-top: 70px;
+    background-color: #687979;
+}
+
+.header__name {
+    margin-bottom: 20px;
+    font-size: 60px;
+}
+
+.heading {
+    margin-top: 70px;
+    width: 200px;
+    background-color: #929282;
+}
+
+.heading--small {
+    margin-top: 120px;
+}
+
+.heading--bordered {
+    width: 200px;
+    background-color: #a7aba1;
+}
+
+.main-info {
+    max-width: 70vw;
+    border-left: 1px solid black;
+    padding: 0 30px;
+    background-color: white;
+}
+
+.about {
+    margin-top: 130px;
+}
+
+.skills,
+.about {
+    margin-bottom: 30px;
+}
+
+.profile {
+    max-width: 30vw;
+    align-self: flex-start;
+    background-color: #d0d0d0;
+}
+
+.profile__figure {
+    margin-bottom: 28px;
+}
+
+.profile__photo {
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 300px;
+}
+
+.contacts,
+.education {
+    margin-left: 100px;
+}
+
+.education {
+    margin-top: 112px;
+}
+
+.list {
+    padding: 0;
+}
+
+.list-item,
+.about__description {
+    font-size: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: #af172c;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 3px;
+    padding: 0 15px;
+    font-size: 17px;
+    background-color: darkgrey;
+}
