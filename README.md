@@ -1,1 +1,1 @@
-https://Kaktinium.github.io/rsschool-cv/cv
+https://kaktinium.github.io/rsschool-cv/index.html
